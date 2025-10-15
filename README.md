@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CrewFare](https://crewfare.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.bilaltoor.engineer/](https://www.bilaltoor.engineer/)
+- 👨‍💻 All of my projects are available at [https://bilaltoor.tech/](https://bilaltoor.tech/)
 
 - 💬 Ask me about **React , Next JS , Vue JS , AWS**
 
